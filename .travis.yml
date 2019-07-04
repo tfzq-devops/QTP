@@ -1,0 +1,10 @@
+language: C++
+
+branches:
+  only:
+  - master
+  - dev
+
+compiler: gcc
+
+script: cd demo && make
