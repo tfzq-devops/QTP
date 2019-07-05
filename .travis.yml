@@ -7,4 +7,4 @@ branches:
 
 compiler: gcc
 
-script: cd demo && make
+script: cd demo/linux && make
