@@ -1,0 +1,1164 @@
+2019-07-10 10:25:23.551 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-10 10:25:23.551 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-10 10:25:23.551 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-10 10:25:23.551 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-10 10:25:23.552 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-10 10:25:23.552 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-10 10:25:23.552 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-10 10:25:23.552 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-10 10:25:23.552 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-10 10:25:23.552 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-10 10:25:23.552 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-10 10:25:23.556 [I] [140046154657792][initConfig]configPath_ is  
+2019-07-10 10:25:23.556 [I] [140046154657792][initConfig]1.2.0 
+2019-07-10 10:25:23.557 [I] [140046154657792][init]Connecting to RealTimeMarketData Server 47.107.18.161:13889 
+2019-07-10 10:26:04.845 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-10 10:26:04.845 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-10 10:26:04.845 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-10 10:26:04.845 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-10 10:26:04.845 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-10 10:26:04.845 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-10 10:26:04.845 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-10 10:26:04.845 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-10 10:26:04.845 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-10 10:26:04.845 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-10 10:26:04.845 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-10 10:26:04.848 [I] [140257271296000][initConfig]configPath_ is  
+2019-07-10 10:26:04.848 [I] [140257271296000][initConfig]1.2.0 
+2019-07-10 10:26:04.849 [I] [140257271296000][init]Connecting to RealTimeMarketData Server 47.107.18.161:13889 
+2019-07-10 10:41:18.141 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-10 10:41:18.141 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-10 10:41:18.141 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-10 10:41:18.141 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-10 10:41:18.141 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-10 10:41:18.141 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-10 10:41:18.141 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-10 10:41:18.141 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-10 10:41:18.141 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-10 10:41:18.141 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-10 10:41:18.141 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-10 10:41:18.145 [I] [139712719601664][initConfig]configPath_ is  
+2019-07-10 10:41:18.145 [I] [139712719601664][initConfig]1.2.0 
+2019-07-10 10:41:18.145 [I] [139712719601664][init]Connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:18.406 [I] [139712667780864][onConn]Successfully connected to MarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:18.406 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:18.407 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:18.442 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:18.442 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:18.442 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:18.442 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:21.445 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:22.104 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:22.104 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:22.105 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:22.140 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:22.140 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:22.140 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:22.140 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:25.140 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:25.791 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:25.791 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:25.791 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:25.832 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:25.832 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:25.832 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:25.832 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:28.833 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:28.874 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:28.874 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:28.874 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:28.908 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:28.909 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:28.909 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:28.909 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:31.912 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:32.207 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:32.207 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:32.207 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:32.341 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:32.341 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:32.341 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:32.341 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:35.342 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:35.713 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:35.713 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:35.713 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:35.752 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:35.752 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:35.752 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:35.752 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:38.754 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:38.794 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:38.794 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:38.794 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:39.463 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:39.463 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:39.463 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:39.463 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:42.466 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:43.599 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:43.599 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:43.599 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:43.639 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:43.639 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:43.639 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:43.639 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:46.642 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:46.876 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:46.876 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:46.876 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:47.256 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:47.256 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:47.256 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:47.256 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:50.259 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:51.349 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:51.349 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:51.349 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:51.395 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:51.395 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:51.395 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:51.395 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:54.396 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:54.667 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:54.667 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:54.667 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:54.706 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:54.706 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:54.706 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:41:54.706 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:57.707 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:41:58.326 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:41:58.326 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:41:58.326 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:41:58.361 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:41:58.362 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:41:58.362 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:41:58.362 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:42:01.363 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:42:01.660 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:42:01.660 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:42:01.660 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:42:01.697 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:42:01.697 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:42:01.697 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:42:01.697 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:42:04.701 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:42:04.994 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:42:04.994 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:42:04.995 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:42:05.029 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:42:05.029 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:42:05.029 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:42:05.029 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:42:08.032 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:42:08.067 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:42:08.067 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:42:08.067 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:42:08.338 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:42:08.341 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:42:08.341 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:42:08.341 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:42:11.341 [I] [139712667780864][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:42:12.439 [I] [139712667780864][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:42:12.440 [I] [139712667780864][reqLogin]user login, account:10620001 
+2019-07-10 10:42:12.440 [D] [139712667780864][handleWrite]write completed! bytes write:73 
+2019-07-10 10:42:12.474 [I] [139712659388160][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:42:12.474 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [139712667780864][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:42:12.474 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [139712667780864][disconnect_in]status is 0 
+2019-07-10 10:42:12.475 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [139712667780864][disconnect_in]close socket 
+2019-07-10 10:42:31.225 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-10 10:42:31.225 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-10 10:42:31.225 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-10 10:42:31.225 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-10 10:42:31.225 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-10 10:42:31.225 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:31.225 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:31.225 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:31.225 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:31.225 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:31.225 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:31.228 [I] [140105748942848][initConfig]configPath_ is  
+2019-07-10 10:42:31.228 [I] [140105748942848][initConfig]1.2.0 
+2019-07-10 10:42:31.228 [I] [140105748942848][init]Connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:42:31.332 [I] [140105697122048][onConn]Successfully connected to MarketData Server 47.107.23.201:13889 
+2019-07-10 10:42:31.332 [I] [140105697122048][reqLogin]user login, account:10620001 
+2019-07-10 10:42:31.332 [D] [140105697122048][handleWrite]write completed! bytes write:73 
+2019-07-10 10:42:31.366 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [140105697122048][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:42:31.367 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [140105697122048][disconnect_in]status is 0 
+2019-07-10 10:42:31.367 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [140105697122048][disconnect_in]close socket 
+2019-07-10 10:42:31.367 [I] [140105688729344][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:42:41.141 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-10 10:42:41.141 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-10 10:42:41.141 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-10 10:42:41.141 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-10 10:42:41.141 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-10 10:42:41.141 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:41.141 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:41.141 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:41.141 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:41.141 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:41.141 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-10 10:42:41.146 [I] [140265372663808][initConfig]configPath_ is  
+2019-07-10 10:42:41.146 [I] [140265372663808][initConfig]1.2.0 
+2019-07-10 10:42:41.147 [I] [140265372663808][init]Connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:42:41.182 [I] [140265320843008][onConn]Successfully connected to MarketData Server 47.107.23.201:13889 
+2019-07-10 10:42:41.182 [I] [140265320843008][reqLogin]user login, account:10620001 
+2019-07-10 10:42:41.183 [D] [140265320843008][handleWrite]write completed! bytes write:73 
+2019-07-10 10:42:41.220 [I] [140265243277056][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:42:41.220 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [140265320843008][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:42:41.220 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [140265320843008][disconnect_in]status is 0 
+2019-07-10 10:42:41.221 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [140265320843008][disconnect_in]close socket 
+2019-07-10 10:42:44.225 [I] [140265320843008][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:42:44.428 [I] [140265320843008][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 10:42:44.428 [I] [140265320843008][reqLogin]user login, account:10620001 
+2019-07-10 10:42:44.428 [D] [140265320843008][handleWrite]write completed! bytes write:73 
+2019-07-10 10:42:44.463 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [140265320843008][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 10:42:44.463 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:189] [140265320843008][disconnect_in]status is 0 
+2019-07-10 10:42:44.464 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [140265320843008][disconnect_in]close socket 
+2019-07-10 10:42:44.464 [I] [140265243277056][procLoginRsp]loginRsp status: 10101 
+2019-07-10 10:43:40.232 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-10 10:43:40.232 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-10 10:43:40.232 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-10 10:43:40.232 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-10 10:43:40.232 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-10 10:43:40.232 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-10 10:43:40.232 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-10 10:43:40.232 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-10 10:43:40.232 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-10 10:43:40.232 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-10 10:43:40.232 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-10 10:43:40.234 [I] [140559236853760][initConfig]configPath_ is  
+2019-07-10 10:43:40.234 [I] [140559236853760][initConfig]1.2.0 
+2019-07-10 10:43:40.235 [I] [140559236853760][init]Connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:43:40.287 [I] [140559112992512][onConn]Successfully connected to MarketData Server 47.107.23.201:13889 
+2019-07-10 10:43:40.287 [I] [140559112992512][reqLogin]user login, account:tfmdRD 
+2019-07-10 10:43:40.287 [D] [140559112992512][handleWrite]write completed! bytes write:73 
+2019-07-10 10:43:40.330 [I] [140559104599808][procLoginRsp]loginRsp status: 0 
+2019-07-10 10:43:40.330 [D] [140559112992512][handleWrite]write completed! bytes write:20 
+2019-07-10 10:43:47.408 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:43:47.408 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:43:50.332 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:43:51.874 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:43:51.874 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:44:00.334 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:44:02.633 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:44:02.633 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:44:10.339 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:44:13.860 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:44:13.860 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:44:20.342 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:44:21.980 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:44:21.980 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:44:30.343 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:44:32.319 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:44:32.319 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:44:40.343 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:44:41.738 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:44:41.738 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:44:50.346 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:44:52.292 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:44:52.292 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:45:00.347 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:45:01.717 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:45:01.718 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:45:10.350 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:45:11.754 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:45:11.754 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:45:20.352 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:45:21.703 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:45:21.703 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:45:30.353 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:45:32.234 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:45:32.234 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:45:40.354 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:45:41.876 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:45:41.876 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:45:50.356 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:45:52.240 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:45:52.240 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:46:00.357 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:46:01.787 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:46:01.787 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:46:10.359 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:46:12.056 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:46:12.056 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:46:20.363 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:46:21.704 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:46:21.704 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:46:30.365 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:46:32.035 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:46:32.035 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:46:40.369 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:46:41.888 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:46:41.888 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:46:50.373 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:46:51.791 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:46:51.791 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:47:00.375 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:47:01.732 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:47:01.732 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:47:10.376 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:47:11.855 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:47:11.855 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:47:20.377 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:47:21.898 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:47:21.898 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:47:30.380 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:47:31.837 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:47:31.837 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:47:40.383 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:47:41.700 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:47:41.700 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:47:50.385 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:47:51.725 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:47:51.725 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:48:00.387 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:48:02.254 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:48:02.254 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:48:10.388 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:48:12.101 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:48:12.101 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:48:20.391 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:48:22.291 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:48:22.291 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:48:30.392 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:48:31.843 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:48:31.843 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:48:40.392 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:48:41.898 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:48:41.898 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:48:50.395 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:48:51.731 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:48:51.731 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:49:00.395 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:49:02.191 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:49:02.191 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:49:10.396 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:49:11.898 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:49:11.898 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:49:20.400 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:49:21.839 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:49:21.839 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:49:30.403 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:49:32.263 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:49:32.263 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:49:40.407 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:49:41.870 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:49:41.870 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:49:50.410 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:49:51.814 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:49:51.814 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:50:00.412 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:50:01.753 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:50:01.753 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:50:10.416 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:50:12.007 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:50:12.007 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:50:20.418 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:50:21.715 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:50:21.715 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:50:30.422 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:50:31.708 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:50:31.708 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:50:40.422 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:50:41.746 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:50:41.746 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:50:50.424 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:50:51.921 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:50:51.921 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:51:00.426 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:51:01.861 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:51:01.861 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:51:10.483 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:51:11.958 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:51:11.958 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:51:20.484 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:51:21.997 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:51:21.997 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:51:30.485 [D] [140559112992512][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:51:31.837 [D] [140559104599808][sendHeartBt]send heartbeat 
+2019-07-10 10:51:31.837 [D] [140559112992512][handleWrite]write completed! bytes write:24 
+2019-07-10 10:54:28.816 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-10 10:54:28.816 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-10 10:54:28.816 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-10 10:54:28.816 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-10 10:54:28.816 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-10 10:54:28.816 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-10 10:54:28.816 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-10 10:54:28.816 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-10 10:54:28.816 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-10 10:54:28.816 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-10 10:54:28.816 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-10 10:54:28.820 [I] [140080617807872][initConfig]configPath_ is  
+2019-07-10 10:54:28.820 [I] [140080617807872][initConfig]1.2.0 
+2019-07-10 10:54:28.821 [I] [140080617807872][init]Connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:54:29.021 [I] [140080492574464][onConn]Successfully connected to MarketData Server 47.107.23.201:13889 
+2019-07-10 10:54:29.021 [I] [140080492574464][reqLogin]user login, account:tfmdRD 
+2019-07-10 10:54:29.021 [D] [140080492574464][handleWrite]write completed! bytes write:73 
+2019-07-10 10:54:29.294 [I] [140080484181760][procLoginRsp]loginRsp status: 0 
+2019-07-10 10:54:29.294 [D] [140080492574464][handleWrite]write completed! bytes write:20 
+2019-07-10 10:54:29.295 [I] [140080484181760][subscribe]subscribe dataType:1 exID:SH secID:600570 
+2019-07-10 10:54:29.295 [D] [140080492574464][handleWrite]write completed! bytes write:52 
+2019-07-10 10:54:39.295 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:54:48.289 [I] [140080484181760][procSubscribeRsp]procSubscribeRsp success 
+2019-07-10 10:54:48.290 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:54:48.293 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:54:48.294 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:54:48.294 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:54:49.296 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:54:52.051 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:54:52.051 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:54:59.300 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:55:02.197 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:55:02.197 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:55:09.304 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:55:12.090 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:55:12.090 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:55:19.304 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:55:21.924 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:55:21.924 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:55:29.305 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:55:31.969 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:55:31.969 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:55:39.306 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:55:41.785 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:55:41.785 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:55:49.312 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:55:51.826 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:55:51.826 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:55:59.317 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:56:01.786 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:56:01.786 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:56:09.318 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:56:11.891 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:56:11.891 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:56:19.319 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:56:21.782 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:56:21.782 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:56:29.320 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:56:31.782 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:56:31.782 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:56:39.324 [D] [140080492574464][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:56:42.902 [D] [140080484181760][sendHeartBt]send heartbeat 
+2019-07-10 10:56:42.902 [D] [140080492574464][handleWrite]write completed! bytes write:24 
+2019-07-10 10:56:46.992 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-10 10:56:46.992 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-10 10:56:46.992 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-10 10:56:46.992 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-10 10:56:46.992 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-10 10:56:46.992 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-10 10:56:46.992 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-10 10:56:46.992 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-10 10:56:46.992 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-10 10:56:46.992 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-10 10:56:46.992 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-10 10:56:46.995 [I] [139738930413568][initConfig]configPath_ is  
+2019-07-10 10:56:46.995 [I] [139738930413568][initConfig]1.2.0 
+2019-07-10 10:56:46.996 [I] [139738930413568][init]Connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 10:56:47.029 [I] [139738878592768][onConn]Successfully connected to MarketData Server 47.107.23.201:13889 
+2019-07-10 10:56:47.029 [I] [139738878592768][reqLogin]user login, account:tfmdRD 
+2019-07-10 10:56:47.029 [D] [139738878592768][handleWrite]write completed! bytes write:73 
+2019-07-10 10:56:47.062 [I] [139738870200064][procLoginRsp]loginRsp status: 0 
+2019-07-10 10:56:47.063 [I] [139738870200064][subscribe]subscribe dataType:1 exID:SH secID:600570 
+2019-07-10 10:56:47.063 [D] [139738878592768][handleWrite]write completed! bytes write:20 
+2019-07-10 10:56:47.063 [D] [139738878592768][handleWrite]write completed! bytes write:52 
+2019-07-10 10:56:53.131 [I] [139738870200064][procSubscribeRsp]procSubscribeRsp success 
+2019-07-10 10:56:53.134 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:56:53.134 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:56:57.064 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:57:02.083 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:57:02.083 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:57:07.069 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:57:11.999 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:57:11.999 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:57:17.073 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:57:21.941 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:57:21.941 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:57:27.078 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:57:31.798 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:57:31.799 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:57:37.079 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:57:41.782 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:57:41.782 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:57:47.083 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:57:51.776 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:57:51.776 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:57:57.084 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:58:01.784 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:58:01.784 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:58:07.084 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:58:11.771 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:58:11.771 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:58:17.090 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:58:21.949 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:58:21.949 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:58:27.092 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:58:31.805 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:58:31.805 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:58:37.096 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:58:41.771 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:58:41.771 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:58:47.102 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:58:51.778 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:58:51.778 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:58:57.105 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:59:01.784 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:59:01.784 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:59:07.107 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:59:12.014 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:59:12.014 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:59:17.111 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:59:22.262 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:59:22.262 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:59:27.114 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:59:31.812 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:59:31.812 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:59:37.115 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:59:41.833 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:59:41.833 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:59:47.121 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 10:59:51.959 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 10:59:51.959 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 10:59:57.125 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:00:01.796 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:00:01.796 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:00:07.128 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:00:11.834 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:00:11.834 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:00:17.131 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:00:21.878 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:00:21.878 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:00:27.136 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:00:32.023 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:00:32.023 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:00:37.139 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:00:42.845 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:00:42.845 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:00:47.143 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:00:51.866 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:00:51.866 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:00:57.144 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:01:01.788 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:01:01.788 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:01:07.149 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:01:11.832 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:01:11.832 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:01:17.150 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:01:22.096 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:01:22.096 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:01:27.156 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:01:31.806 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:01:31.806 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:01:37.158 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:01:41.774 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:01:41.774 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:01:47.159 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:01:51.783 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:01:51.783 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:01:57.159 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:02:01.912 [D] [139738870200064][sendHeartBt]send heartbeat 
+2019-07-10 11:02:01.912 [D] [139738878592768][handleWrite]write completed! bytes write:24 
+2019-07-10 11:02:07.164 [D] [139738878592768][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:04:08.900 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-10 11:04:08.900 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-10 11:04:08.900 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-10 11:04:08.900 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-10 11:04:08.900 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-10 11:04:08.900 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-10 11:04:08.900 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-10 11:04:08.900 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-10 11:04:08.900 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-10 11:04:08.900 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-10 11:04:08.900 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-10 11:04:08.902 [I] [140500364386304][initConfig]configPath_ is  
+2019-07-10 11:04:08.902 [I] [140500364386304][initConfig]1.2.0 
+2019-07-10 11:04:08.903 [I] [140500364386304][init]Connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 11:04:09.114 [I] [140500312565504][onConn]Successfully connected to MarketData Server 47.107.23.201:13889 
+2019-07-10 11:04:09.114 [I] [140500312565504][reqLogin]user login, account:tfmdRD 
+2019-07-10 11:04:09.114 [D] [140500312565504][handleWrite]write completed! bytes write:73 
+2019-07-10 11:04:09.150 [I] [140500304172800][procLoginRsp]loginRsp status: 0 
+2019-07-10 11:04:09.150 [D] [140500312565504][handleWrite]write completed! bytes write:20 
+2019-07-10 11:04:09.151 [I] [140500304172800][subscribe]subscribe dataType:1 exID:SH secID:600570 
+2019-07-10 11:04:09.151 [I] [140500304172800][subscribe]subscribe dataType:1 exID:HK secID:00001 
+2019-07-10 11:04:09.151 [D] [140500312565504][handleWrite]write completed! bytes write:84 
+2019-07-10 11:04:09.151 [I] [140500304172800][subscribe]subscribe dataType:1 exID:SH secID:600570 
+2019-07-10 11:04:09.151 [I] [140500304172800][subscribe]subscribe dataType:1 exID:HK secID:00001 
+2019-07-10 11:04:09.151 [D] [140500312565504][handleWrite]write completed! bytes write:84 
+2019-07-10 11:04:14.818 [I] [140500304172800][procSubscribeRsp]procSubscribeRsp success 
+2019-07-10 11:04:14.819 [I] [140500304172800][procSubscribeRsp]procSubscribeRsp error 
+2019-07-10 11:04:14.820 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:04:14.821 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:04:19.153 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:04:21.925 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:04:21.925 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:04:29.155 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:04:32.240 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:04:32.240 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:04:39.159 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:04:41.954 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:04:41.954 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:04:49.165 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:04:51.910 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:04:51.910 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:04:59.166 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:05:01.837 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:05:01.837 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:05:09.171 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:05:11.778 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:05:11.778 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:05:19.175 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:05:21.833 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:05:21.833 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:05:29.176 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:05:31.791 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:05:31.791 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:05:39.182 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:05:42.290 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:05:42.290 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:05:49.187 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:05:51.815 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:05:51.816 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:05:59.194 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:06:01.791 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:06:01.791 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:06:09.194 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:06:12.084 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:06:12.084 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:06:19.200 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:06:21.906 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:06:21.906 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:06:29.204 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:06:32.393 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:06:32.393 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:06:39.208 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:06:41.990 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:06:41.990 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:06:49.211 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:06:52.030 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:06:52.030 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:06:59.213 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:07:01.867 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:07:01.867 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:07:09.213 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:07:11.806 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:07:11.806 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:07:19.220 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:07:21.941 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:07:21.941 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:07:29.223 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:07:31.877 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:07:31.877 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:07:39.224 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:07:41.804 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:07:41.804 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:07:49.226 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:07:51.941 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:07:51.941 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:07:59.227 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:08:01.879 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:08:01.879 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:08:09.228 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:08:12.484 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:08:12.485 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:08:19.232 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:08:21.811 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:08:21.811 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:08:29.235 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:08:31.816 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:08:31.817 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:08:39.240 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:08:41.909 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:08:41.909 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:08:49.247 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:08:52.275 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:08:52.275 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:08:59.252 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:09:02.402 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:09:02.402 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:09:09.255 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:09:11.808 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:09:11.808 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:09:19.261 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:09:21.891 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:09:21.891 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:09:29.266 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:09:31.822 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:09:31.822 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:09:39.267 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:09:42.014 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:09:42.014 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:09:49.269 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:09:51.854 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:09:51.854 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:09:59.275 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:10:01.819 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:10:01.819 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:10:09.275 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:10:11.805 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:10:11.805 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:10:19.276 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:10:22.072 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:10:22.072 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:10:29.277 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:10:31.819 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:10:31.819 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:10:39.277 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:10:41.806 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:10:41.806 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:10:49.278 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:10:51.837 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:10:51.837 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:10:59.281 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:11:02.005 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:11:02.005 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:11:09.284 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:11:12.452 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:11:12.452 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:11:19.288 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:11:21.873 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:11:21.873 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:11:29.288 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:11:32.009 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:11:32.009 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:11:39.290 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:11:41.806 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:11:41.806 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:11:49.292 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:11:52.071 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:11:52.071 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:11:59.297 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:12:01.914 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:12:01.914 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:12:09.297 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:12:11.823 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:12:11.823 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:12:19.298 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:12:21.973 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:12:21.973 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:12:29.298 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:12:31.826 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:12:31.826 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:12:39.303 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:12:42.285 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:12:42.285 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:12:49.304 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:12:52.007 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:12:52.007 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:12:59.304 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:13:02.736 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:13:02.736 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:13:09.304 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:13:11.807 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:13:11.807 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:13:19.305 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:13:21.819 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:13:21.819 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:13:29.306 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:13:32.027 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:13:32.027 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:13:39.311 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:13:41.837 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:13:41.837 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:13:49.315 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:13:51.887 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:13:51.887 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:13:59.319 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:14:02.026 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:14:02.026 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:14:09.321 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:14:11.827 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:14:11.827 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:14:19.321 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:14:21.992 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:14:21.992 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:14:29.324 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:14:32.379 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:14:32.379 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:14:39.325 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:14:41.815 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:14:41.815 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:14:49.327 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:14:52.101 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:14:52.101 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:14:59.327 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:15:02.358 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:15:02.358 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:15:09.329 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:15:12.063 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:15:12.063 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:15:19.330 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:15:21.815 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:15:21.815 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:15:29.333 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:15:32.037 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:15:32.037 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:15:39.334 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:15:41.956 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:15:41.956 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:15:49.340 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:15:51.896 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:15:51.896 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:15:59.345 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:16:01.823 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:16:01.823 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:16:09.350 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:16:12.180 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:16:12.180 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:16:19.350 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:16:21.816 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:16:21.816 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:16:29.351 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:16:32.046 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:16:32.046 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:16:39.356 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:16:41.971 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:16:41.971 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:16:49.359 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:16:51.816 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:16:51.816 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:16:59.360 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:17:01.845 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:17:01.845 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:17:09.361 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:17:11.866 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:17:11.866 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:17:19.364 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:17:21.817 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:17:21.817 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:17:29.366 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:17:31.824 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:17:31.824 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:17:39.367 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:17:41.811 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:17:41.811 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:17:49.369 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:17:52.014 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:17:52.014 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:17:59.373 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:18:01.851 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:18:01.851 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:18:09.373 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:18:12.490 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:18:12.490 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:18:19.375 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:18:21.818 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:18:21.818 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:18:29.376 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:18:32.061 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:18:32.061 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:18:39.376 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:18:41.979 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:18:41.979 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:18:49.377 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:18:51.819 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:18:51.819 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:18:59.378 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:19:01.826 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:19:01.826 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:19:09.379 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:19:11.988 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:19:11.988 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:19:19.382 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:19:21.855 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:19:21.855 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:19:29.384 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:19:32.205 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:19:32.205 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:19:39.384 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:19:41.884 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:19:41.884 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:19:49.385 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:19:51.828 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:19:51.828 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:19:59.393 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:20:01.969 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:20:01.969 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:20:09.395 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:20:11.888 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:20:11.888 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:20:19.396 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:20:21.859 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:20:21.859 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:20:29.397 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:20:32.188 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:20:32.188 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:20:39.400 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:20:41.892 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:20:41.892 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:20:49.400 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:20:51.834 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:20:51.834 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:20:59.402 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:21:01.827 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:21:01.827 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:21:09.404 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:21:11.891 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:21:11.891 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:21:19.412 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:21:21.831 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:21:21.831 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:21:29.414 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:21:31.823 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:21:31.823 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:21:39.415 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:21:41.985 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:21:41.985 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:21:49.417 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:21:51.926 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:21:51.926 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:21:59.423 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:22:02.386 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:22:02.386 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:22:09.432 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:22:11.794 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:22:11.794 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:22:19.435 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:22:21.802 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:22:21.802 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:22:29.436 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:22:32.070 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:22:32.070 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:22:39.441 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:22:42.093 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:22:42.093 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:22:49.445 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:22:51.824 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:22:51.824 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:22:59.450 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:23:01.809 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:23:01.809 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:23:09.451 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:23:12.095 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:23:12.096 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:23:19.454 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:23:21.933 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:23:21.933 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:23:29.456 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:23:31.809 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:23:31.809 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:23:39.457 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:23:42.406 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:23:42.406 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:23:49.459 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:23:51.833 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:23:51.833 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:23:59.467 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:24:01.808 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:24:01.808 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:24:09.473 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:24:12.000 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:24:12.000 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:24:19.474 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:24:22.141 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:24:22.141 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:24:29.482 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:24:31.879 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:24:31.879 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:24:39.483 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:24:41.899 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:24:41.899 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:24:49.492 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:24:51.877 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:24:51.877 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:24:59.496 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:25:01.985 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:25:01.985 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:25:09.499 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:25:11.904 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:25:11.904 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:25:19.502 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:25:21.843 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:25:21.843 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:25:29.507 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:25:31.809 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:25:31.809 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:25:39.515 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:25:41.800 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:25:41.800 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:25:49.523 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:25:51.950 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:25:51.950 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:25:59.523 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:26:01.810 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:26:01.810 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:26:09.530 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:26:11.809 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:26:11.809 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:26:19.532 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:26:21.803 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:26:21.803 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:26:29.539 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:26:32.205 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:26:32.205 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:26:39.546 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:26:41.949 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:26:41.949 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:26:49.556 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:26:51.803 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:26:51.803 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:26:59.632 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:27:01.999 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:27:01.999 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:27:09.633 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:27:12.294 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:27:12.294 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:27:19.641 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:27:21.804 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:27:21.804 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:27:29.644 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:27:32.003 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:27:32.003 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:27:39.645 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:27:41.819 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:27:41.819 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:27:49.647 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:27:51.803 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:27:51.803 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:27:59.658 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:28:01.904 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:28:01.904 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:28:09.661 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:28:11.796 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:28:11.796 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:28:19.667 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:28:21.968 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:28:21.968 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:28:29.671 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:28:31.907 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:28:31.907 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:28:39.673 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:28:41.819 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:28:41.819 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:28:49.678 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:28:51.816 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:28:51.816 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:28:59.688 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:29:01.810 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:29:01.810 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:29:09.691 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:29:11.948 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:29:11.948 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:03.272 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:30:11.307 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:11.307 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:11.308 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:11.308 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:11.308 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:11.308 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:11.340 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:11.340 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:11.591 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:11.591 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:11.591 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:11.591 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:13.282 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:30:20.713 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:20.713 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:23.284 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:30:30.759 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:30.759 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:34.283 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:30:41.655 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:41.655 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:44.286 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 11:30:51.939 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 11:30:51.939 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 11:30:55.476 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:07:28.698 [D] [140500312565504][checkHBCount]success checkHeartBeat: 2 
+2019-07-10 12:07:32.720 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:560] [140500312565504][handleReadHeader]Error occurs in reading message header.2 
+2019-07-10 12:07:32.720 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:183] [140500312565504][disconnect_in]ErrorConnect 
+2019-07-10 12:07:32.721 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:200] [140500312565504][disconnect_in]close socket 
+2019-07-10 12:07:32.721 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:1017] [140500312565504][checkHBCount]HeartBeatWarning! 
+2019-07-10 12:07:32.721 [E] [/home/jenkins/workspace/MDP_ProdMarketDataAPI-compile/source/src/RealTimeWANSubAgent.cpp:1026] [140500312565504][checkHBCount]checkHBCount error125 
+2019-07-10 12:07:35.723 [I] [140500312565504][autoConnect]Auto connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-10 12:07:35.757 [I] [140500312565504][autoOnConn]Successfully connected to MarketData Server! 
+2019-07-10 12:07:35.757 [I] [140500312565504][reqLogin]user login, account:tfmdRD 
+2019-07-10 12:07:35.757 [D] [140500312565504][handleWrite]write completed! bytes write:73 
+2019-07-10 12:07:36.093 [I] [140500304172800][procLoginRsp]loginRsp status: 0 
+2019-07-10 12:07:36.093 [I] [140500304172800][subscribe]subscribe dataType:1 exID:SH secID:600570 
+2019-07-10 12:07:36.093 [I] [140500304172800][subscribe]subscribe dataType:1 exID:HK secID:00001 
+2019-07-10 12:07:36.093 [I] [140500304172800][subscribe]subscribe dataType:1 exID:SH secID:600570 
+2019-07-10 12:07:36.093 [I] [140500304172800][subscribe]subscribe dataType:1 exID:HK secID:00001 
+2019-07-10 12:07:36.093 [D] [140500312565504][handleWrite]write completed! bytes write:84 
+2019-07-10 12:07:36.093 [D] [140500312565504][handleWrite]write completed! bytes write:84 
+2019-07-10 12:07:36.127 [I] [140500304172800][procSubscribeRsp]procSubscribeRsp success 
+2019-07-10 12:07:36.161 [I] [140500304172800][procSubscribeRsp]procSubscribeRsp error 
+2019-07-10 12:07:42.180 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:07:42.180 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:07:46.095 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:07:51.715 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:07:51.715 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:07:56.103 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:08:01.778 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:08:01.778 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:08:06.113 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:08:11.726 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:08:11.726 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:08:16.115 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:08:22.333 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:08:22.333 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:08:26.122 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:08:31.834 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:08:31.834 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:08:36.122 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:08:41.687 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:08:41.687 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:08:46.124 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:08:52.411 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:08:52.411 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:08:56.125 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:09:01.837 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:09:01.837 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:09:06.127 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:09:11.781 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:09:11.781 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:09:16.128 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:09:21.759 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:09:21.759 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:09:26.129 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:09:32.079 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:09:32.079 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:09:36.132 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:09:41.698 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:09:41.698 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:09:46.134 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:09:51.936 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:09:51.936 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:09:56.135 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:10:01.742 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:10:01.742 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:10:06.139 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:10:11.995 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:10:11.995 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:10:16.140 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:10:22.349 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:10:22.349 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:10:26.141 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:10:31.746 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:10:31.746 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:10:36.141 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:10:41.741 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:10:41.741 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:10:46.143 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:10:51.840 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:10:51.840 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:10:56.146 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:11:01.698 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:11:01.698 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:11:06.147 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:11:11.797 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:11:11.797 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:11:16.148 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:11:22.254 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:11:22.254 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:11:26.150 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:11:31.753 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:11:31.753 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:11:36.151 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:11:42.762 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:11:42.762 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:11:46.153 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
+2019-07-10 12:11:51.880 [D] [140500304172800][sendHeartBt]send heartbeat 
+2019-07-10 12:11:51.880 [D] [140500312565504][handleWrite]write completed! bytes write:24 
+2019-07-10 12:11:56.155 [D] [140500312565504][checkHBCount]success checkHeartBeat: 1 
