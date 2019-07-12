@@ -1,0 +1,129 @@
+2019-07-12 10:39:33.124 [A] -----------------  log4z thread started!   ---------------------------- 
+2019-07-12 10:39:33.124 [A] logger id=0 path=./tfApiLog/ name=market_data level=0 display=0 
+2019-07-12 10:39:33.124 [A] logger id=1 path=./logs/ name=HistoryMarketData level=0 display=1 
+2019-07-12 10:39:33.124 [A] logger id=2 path=./logs/ name=RealTimeIndicator level=0 display=1 
+2019-07-12 10:39:33.124 [A] logger id=3 path=./logs/ name=RealTimeMarketData level=0 display=1 
+2019-07-12 10:39:33.124 [A] logger id=4 path=./logs/ name= level=0 display=1 
+2019-07-12 10:39:33.124 [A] logger id=5 path=./logs/ name= level=0 display=1 
+2019-07-12 10:39:33.124 [A] logger id=6 path=./logs/ name= level=0 display=1 
+2019-07-12 10:39:33.124 [A] logger id=7 path=./logs/ name= level=0 display=1 
+2019-07-12 10:39:33.124 [A] logger id=8 path=./logs/ name= level=0 display=1 
+2019-07-12 10:39:33.124 [A] logger id=9 path=./logs/ name= level=0 display=1 
+2019-07-12 10:39:33.128 [I] [140419246505984][initConfig]configPath_ is  
+2019-07-12 10:39:33.128 [I] [140419246505984][initConfig]1.2.0 
+2019-07-12 10:39:33.130 [I] [140419246505984][init]Connecting to RealTimeMarketData Server 47.107.23.201:13889 
+2019-07-12 10:39:33.165 [I] [140419123902208][onConn]Successfully connected to MarketData Server 47.107.23.201:13889 
+2019-07-12 10:39:33.166 [I] [140419123902208][reqLogin]user login, account:tfmdRD 
+2019-07-12 10:39:33.166 [D] [140419123902208][handleWrite]write completed! bytes write:73 
+2019-07-12 10:39:33.318 [I] [140419115509504][procLoginRsp]loginRsp status: 0 
+2019-07-12 10:39:33.319 [I] [140419115509504][subscribe]subscribe dataType:1 exID:SH secID:600570 
+2019-07-12 10:39:33.319 [I] [140419115509504][subscribe]subscribe dataType:1 exID:HK secID:00001 
+2019-07-12 10:39:33.319 [D] [140419123902208][handleWrite]write completed! bytes write:20 
+2019-07-12 10:39:33.319 [D] [140419123902208][handleWrite]write completed! bytes write:84 
+2019-07-12 10:39:33.319 [I] [140419115509504][subscribe]subscribe dataType:1 exID:SH secID:600570 
+2019-07-12 10:39:33.319 [I] [140419115509504][subscribe]subscribe dataType:1 exID:HK secID:00001 
+2019-07-12 10:39:33.319 [D] [140419123902208][handleWrite]write completed! bytes write:84 
+2019-07-12 10:39:37.130 [I] [140419115509504][procSubscribeRsp]procSubscribeRsp success 
+2019-07-12 10:39:37.130 [I] [140419115509504][procSubscribeRsp]procSubscribeRsp error 
+2019-07-12 10:39:41.440 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:39:41.440 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:39:43.319 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:39:51.422 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:39:51.422 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:39:53.325 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:40:01.444 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:40:01.444 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:40:03.327 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:40:11.441 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:40:11.441 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:40:13.333 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:40:21.478 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:40:21.478 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:40:23.334 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:40:31.581 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:40:31.581 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:40:33.340 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:40:41.551 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:40:41.551 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:40:43.345 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:40:51.531 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:40:51.531 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:40:53.346 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:41:01.494 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:41:01.494 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:41:03.350 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:41:11.540 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:41:11.540 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:41:13.350 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:41:21.424 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:41:21.424 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:41:23.356 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:41:31.430 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:41:31.430 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:41:33.359 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:41:41.443 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:41:41.443 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:41:43.364 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:41:51.422 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:41:51.422 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:41:53.366 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:42:01.439 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:42:01.439 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:42:03.369 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:42:11.446 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:42:11.446 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:42:13.371 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:42:21.685 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:42:21.685 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:42:23.377 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:42:31.527 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:42:31.527 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:42:33.378 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:42:41.664 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:42:41.664 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:42:43.384 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:42:51.439 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:42:51.439 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:42:53.384 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:43:01.544 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:43:01.544 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:43:03.387 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:43:11.464 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:43:11.464 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:43:13.387 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:43:21.477 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:43:21.477 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:43:23.388 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:43:31.523 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:43:31.523 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:43:33.389 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:43:41.456 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:43:41.456 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:43:43.394 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:43:51.434 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:43:51.434 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:43:53.400 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:44:01.731 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:44:01.731 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:44:03.402 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:44:11.456 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:44:11.456 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:44:13.408 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:44:21.455 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:44:21.455 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:44:23.413 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:44:31.447 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:44:31.447 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:44:33.419 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:44:41.568 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:44:41.568 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:44:43.422 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:44:51.638 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:44:51.639 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:44:53.422 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:45:01.514 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:45:01.514 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:45:03.431 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
+2019-07-12 10:45:11.626 [D] [140419115509504][sendHeartBt]send heartbeat 
+2019-07-12 10:45:11.626 [D] [140419123902208][handleWrite]write completed! bytes write:24 
+2019-07-12 10:45:13.439 [D] [140419123902208][checkHBCount]success checkHeartBeat: 1 
